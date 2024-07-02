@@ -1,3 +1,4 @@
+#reutgerber@gmail.com
 #pragma once
 #pragma once
 #include "node.hpp"
