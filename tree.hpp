@@ -1,3 +1,4 @@
+#reutgerber@gmail.com
 #include "PreOrderiterator.hpp"
 #include "PostOrderIterator.hpp"
 #include "in_order_iterator.hpp"
